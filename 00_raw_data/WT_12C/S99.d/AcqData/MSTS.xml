@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TimeSegments>
+    <Version>3</Version>
+    <TimeSegment TimeSegmentID="1">
+        <!--start time in minutes-->
+        <StartTime>0.04205</StartTime>
+        <!--end time in minutes-->
+        <EndTime>0.530866666666667</EndTime>
+        <NumOfScans>0</NumOfScans>
+        <!--0=no, 1=yes-->
+        <FixedCycleLength>0</FixedCycleLength>
+    </TimeSegment>
+    <TimeSegment TimeSegmentID="2">
+        <StartTime>0.541983365885417</StartTime>
+        <EndTime>12.0308</EndTime>
+        <NumOfScans>2067</NumOfScans>
+        <FixedCycleLength>0</FixedCycleLength>
+    </TimeSegment>
+    <TimeSegment TimeSegmentID="3">
+        <StartTime>12.0419166666667</StartTime>
+        <EndTime>14.4999</EndTime>
+        <NumOfScans>0</NumOfScans>
+        <FixedCycleLength>0</FixedCycleLength>
+    </TimeSegment>
+    <IRMStatus>0</IRMStatus>
+</TimeSegments>

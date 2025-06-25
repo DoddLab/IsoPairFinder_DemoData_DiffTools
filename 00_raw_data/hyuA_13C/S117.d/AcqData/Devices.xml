@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Devices>
+  <Version>1</Version>
+  <Device DeviceID="1">
+    <Name>QTOF</Name>
+    <DriverVersion>10.01.00</DriverVersion>
+    <FirmwareVersion>21.811</FirmwareVersion>
+    <ModelNumber>G6549A</ModelNumber>
+    <OrdinalNumber>1</OrdinalNumber>
+    <SerialNumber>SG1823M001</SerialNumber>
+    <Type>6</Type>
+    <StoredDataType>8</StoredDataType>
+    <Delay>0</Delay>
+    <Vendor>1</Vendor>
+  </Device>
+  <Device DeviceID="1011">
+    <Name>HiP-ALS</Name>
+    <ModelNumber>G7167B</ModelNumber>
+    <OrdinalNumber>1</OrdinalNumber>
+    <SerialNumber>DEBAR00322</SerialNumber>
+    <Type>21</Type>
+    <StoredDataType>2</StoredDataType>
+    <Delay>0</Delay>
+    <Vendor>1</Vendor>
+  </Device>
+  <Device DeviceID="1012">
+    <Name>BinPump</Name>
+    <ModelNumber>G7120A</ModelNumber>
+    <OrdinalNumber>1</OrdinalNumber>
+    <SerialNumber>DEBA202522</SerialNumber>
+    <Type>31</Type>
+    <StoredDataType>2</StoredDataType>
+    <Delay>0</Delay>
+    <Vendor>1</Vendor>
+  </Device>
+  <Device DeviceID="1013">
+    <Name>BinPump</Name>
+    <ModelNumber>G7120A</ModelNumber>
+    <OrdinalNumber>2</OrdinalNumber>
+    <SerialNumber>DEBA202634</SerialNumber>
+    <Type>31</Type>
+    <StoredDataType>2</StoredDataType>
+    <Delay>0</Delay>
+    <Vendor>1</Vendor>
+  </Device>
+  <Device DeviceID="1014">
+    <Name>TCC</Name>
+    <ModelNumber>G7116B</ModelNumber>
+    <OrdinalNumber>1</OrdinalNumber>
+    <SerialNumber>DEBA403620</SerialNumber>
+    <Type>40</Type>
+    <StoredDataType>2</StoredDataType>
+    <Delay>0</Delay>
+    <Vendor>1</Vendor>
+  </Device>
+</Devices>

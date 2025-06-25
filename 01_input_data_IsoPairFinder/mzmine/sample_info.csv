@@ -1,0 +1,13 @@
+sample_id,group,tracer_group,type
+S98,WT,12C,sample
+S99,WT,12C,sample
+S134,WT,12C,sample
+S110,hyuA,12C,sample
+S111,hyuA,12C,sample
+S144,hyuA,12C,sample
+S104,WT,13C,sample
+S105,WT,13C,sample
+S139,WT,13C,sample
+S116,hyuA,13C,sample
+S117,hyuA,13C,sample
+S149,hyuA,13C,sample
